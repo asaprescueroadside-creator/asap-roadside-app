@@ -20,7 +20,7 @@ This application powers the ASAP Hours 24/7 service network, allowing customers 
 - EAS Build (Android APK)
 
 ## Ownership
-© 2026 ASAP Hours 24/7 Network Services
+© 2026 ASAP OuR'S 24/7 Network Services
  – All Rights Reserved.
 
 This software and all related intellectual property are proprietary and may not be copied, modified, distributed, or used without written permission.
