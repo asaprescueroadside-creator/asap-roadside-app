@@ -1,2 +1,28 @@
-# asap-roadside-app
-ASAP Roadside Rescue offers reliable 24/7 roadside assistance: jump-starts, tire changes, lockouts, &amp; emergency roadside help. We serve drivers, families, &amp; insurance partners with professional care, transparent pricing, &amp; rapid response. We also assist with safe transportation from point A to point B to reduce stress and ensure timely arrival. 
+# ASAP Hours 24/7 Network Services App
+
+Mobile dispatch and roadside assistance platform providing:
+
+- Jump starts  
+- Tire changes  
+- Lockout service  
+- Emergency roadside help  
+- Driver dispatch with real-time location  
+- Instant driver payouts via Stripe  
+
+## Purpose
+This application powers the ASAP Hours 24/7 service network, allowing customers to request help and drivers to receive and complete service jobs in real time.
+
+## Tech Stack
+- React Native / Expo
+- Firebase (database & auth)
+- Stripe Connect (payments)
+- Google Maps API (location & routing)
+- EAS Build (Android APK)
+
+## Ownership
+© Evon Smith – All Rights Reserved.
+
+This software and all related intellectual property are proprietary and may not be copied, modified, distributed, or used without written permission.
+
+## Status
+Private business application under active development.
